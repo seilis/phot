@@ -8,5 +8,7 @@ edition = "2018"
 
 [dependencies]
 anyhow    = "^1.0.38"
+clap      = "^2.33.3"
 dirs      = "^3.0.1"
+sha1      = "^0.6.0"
 thiserror = "^1.0.23"
